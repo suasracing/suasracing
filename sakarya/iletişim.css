@@ -1,0 +1,19 @@
+.main-bg{
+    background-color: rgba(247,247,247,255);
+
+}
+
+
+.main-bg {
+    background-color: rgba(247, 247, 247, 255);
+}
+
+.main{
+    background-image: linear-gradient(62deg, rgb(12, 132, 92) 0%, #1f3567 100%);
+    background-color: rgba(247, 247, 247, 255);
+    width: auto;
+    height: auto;
+}
+
+
+  .navbar-nav > li > .dropdown-menu {    background-color: rgba(247,247,247,255); }
